@@ -1,0 +1,17 @@
+{
+  "strict": true,
+  "undef": true,
+  "latedef": true,
+  "unused": false,
+  "freeze": false,
+  "curly": true,
+  "quotmark": true,
+  "laxcomma": true,
+  "jasmine": true,
+  "browser": true,
+  "node": true,
+  "globals": {
+    "angular": true,
+    "notes": true
+  }
+}
